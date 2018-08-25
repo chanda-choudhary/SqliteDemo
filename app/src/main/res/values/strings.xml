@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SqliteDemo</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_contact">Add Contact</string>
+    <string name="veiw_contact">Veiw Contact</string>
+    <string name="update_contact">Update Contact</string>
+    <string name="delete_contact">Delete Contact</string>
+    <string name="add_new_contact">Add New Contact</string>
+    <string name="update">Update</string>
+</resources>

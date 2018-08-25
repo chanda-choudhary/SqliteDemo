@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".HomeFragment"
+    android:orientation="vertical">
+
+    <!-- TODO: Update blank fragment layout -->
+    <Button
+        android:id="@+id/btn_add_contact"
+        android:layout_width="226dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="32dp"
+        android:text="@string/add_contact"
+        android:layout_gravity="center_horizontal"
+        />
+    <Button
+        android:id="@+id/btn_view_contact"
+        android:layout_width="226dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="32dp"
+        android:text="@string/veiw_contact"
+        android:layout_gravity="center_horizontal"
+        />
+    <Button
+        android:id="@+id/btn_update_contact"
+        android:layout_width="226dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="32dp"
+        android:text="@string/update_contact"
+        android:layout_gravity="center_horizontal"
+        />
+    <Button
+        android:id="@+id/btn_delete_contact"
+        android:layout_width="226dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="32dp"
+        android:text="@string/delete_contact"
+        android:layout_gravity="center_horizontal"/>
+
+
+</LinearLayout>
+
+
+
+
